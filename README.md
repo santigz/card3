@@ -11,4 +11,4 @@ Resultado final:
 
 Anotaciones:
 
-![](card3-annotations.jpg)
+![](card3-anotations.jpg)
